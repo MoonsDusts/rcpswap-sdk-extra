@@ -1,7 +1,7 @@
 {
   "name": "@rcpswap/sdk-extra",
   "license": "MIT",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "🛠 A specific SDK/toolkit for building applications on top of RCPswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -28,7 +28,7 @@
     "@ethersproject/contracts": "^5.1.1",
     "@ethersproject/providers": "^5.1.2",
     "@ethersproject/solidity": "^5.1.0",
-    "@rcpswap/sdk": "^1.2.0",
+    "@rcpswap/sdk": "^1.2.1",
     "@types/lodash.random": "^3.2.6",
     "lodash.random": "^3.2.0"
   },

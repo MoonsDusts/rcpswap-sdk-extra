@@ -1428,10 +1428,10 @@
   resolved "https://registry.yarnpkg.com/@rcpswap/core/-/core-1.1.0.tgz#c3714abe37a946d61d5a6c931c8c1355d841e4f3"
   integrity sha512-fTd97xTIKUw45J4Bk+lbzHedIb3gb9l2nudPslKXRFCHvVIQFKn0+FQH9PErBhGtWOhl+IpZe/5d2THb4nYw1Q==
 
-"@rcpswap/sdk@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@rcpswap/sdk/-/sdk-1.2.0.tgz#1d26755e3c7b269a6e7db706c7d5d72ae823945e"
-  integrity sha512-8yr/cIaplvdHO0qKX+A5yxmb5ouE3Nvz+JSioxZn7+qCCrm9yKLwWjWOwNufuTBxhR3LP3kf3tUe3rq+GD2/wA==
+"@rcpswap/sdk@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@rcpswap/sdk/-/sdk-1.2.1.tgz#bb7249c751c8e917ff25b90683552f785f0ef3db"
+  integrity sha512-XfPksIZpwNEfkDgzXDOeL7rLWpHUXe5XtKqjPMDNB403rwOSaJVgDCUzE6gis2psgwCh0i6DdNdlup8N5CDWVw==
   dependencies:
     "@rcpswap/core" "^1.1.0"
     big.js "^5.2.2"
